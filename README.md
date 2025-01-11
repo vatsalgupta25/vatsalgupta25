@@ -2,13 +2,14 @@
                                                           VATSAL GUPTA
 ---------------------------------------------------------------------------
 
-Hi, 
- - My Tech stack includes:
- - AWS Cloud, Terraform, Kubernetes, Jenkins, Pupper, Docker
-Proficient in Python, MySQL.
+An engineer fueled by a passion for mastering diverse technologies all at once. I thrive on building, scaling, and navigating the challenges of complex systems with a blend of creativity and precision.
+
+I make things work.
+
+If it works, it’s not a bug—it’s a feature.
 
 - Find me here: https://www.linkedin.com/in/vatsal-gupta-/
-- https://vatsalgupta.me
+- https://vatsalgupta.tech
 <!--
 **vatsalgupta25/vatsalgupta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
