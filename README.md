@@ -9,7 +9,7 @@ I make things work.
 If it works, it’s not a bug—it’s a feature.
 
 - Find me here: https://www.linkedin.com/in/vatsal-gupta-/
-- https://vatsalgupta.tech
+- https://vatsalgupta.space
 <!--
 **vatsalgupta25/vatsalgupta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
